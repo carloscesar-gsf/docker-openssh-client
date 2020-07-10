@@ -1,6 +1,6 @@
 # docker-openssh-client
 
-Docker image based on alpine linux with installed openssh client.
+Docker image based on bash linux with installed openssh client.
 
 Strict host key checking is disabled.
 Agent forwarding is enabled.
